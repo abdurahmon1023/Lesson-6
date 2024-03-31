@@ -1,0 +1,51 @@
+.box {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.row {
+    display: flex;
+    gap: 40px;
+    margin: 80px 0;
+}
+
+.rows {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.box-1 {
+    box-shadow: 0px 10px 20px #2FC63C;
+}
+
+.box-2 {
+    box-shadow: 0px 0px 20px #64646F;
+}
+.box-3 {
+    box-shadow: 3px 3px 5px rgb(71, 70, 70);
+}
+
+.box-4 {
+    box-shadow: 0px 5px 10px #8070d8;
+}
+ .box-5 {
+    box-shadow: 0px 2px 5px rgb(181, 28, 36);
+ }
+
+.box-6 {
+    box-shadow: 0px 10px 20px yellow;
+}
+
+.box-7 {
+    box-shadow:0px 10px 20px blue ;
+}
+
+.box-8 {
+    box-shadow: 0px 10px 20px gray;
+}
+
+.box-9 {
+    box-shadow: 0px 0px 20px rgb(164, 162, 162);
+}
